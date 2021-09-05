@@ -8,7 +8,7 @@
 * [Contact](#contact)
 
 ## General Information
-- I'm building this project and learning at the same time, so if you have any suggestions, feel free tell me (my contact are in the Contact section)
+- I'm building this project and learning at the same time, so if you have any suggestions, feel free to tell me (my contact are in the Contact section)
 - Codes have comments to help in the learning process 
 
 ## Technologies Used
@@ -23,5 +23,7 @@ Project is: _in progress_
 
 ## Contact
 Created by [@alineralncs](https://www.instagram.com/alineralncs/)
+
 My email: alineralncs@gmail.com
+
 Feel free to contact me!
