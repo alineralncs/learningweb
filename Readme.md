@@ -1,6 +1,6 @@
 > Hi there, I'm improving my web development skills. So I created this repository to help those who are also on this journey.
 
-##Table of Contents
+## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Project Status](#project-status)
@@ -16,7 +16,7 @@
 - CSS3
 
 ## Acknowledgements
-- This project was based on [this tutorial](udemy.com/course/web-completo/).
+- This project was based on [this tutorial](https://www.udemy.com/course/web-completo/).
 
 ## Project Status
 Project is: _in progress_ 
