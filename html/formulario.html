@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Formularios em html</title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <a href="index.html">Página inicial</a>
+        <h2>Login</h2>
+        <form>
+            <!--a tag form define um formulário-->
+            Usuário<br>
+            <!--a tag input define um campo para preencher-->
+            <!--a taga input possui atributos que definem qual tipo é o campo (type)-->
+            <input type="text" name="usuario"><br>
+            Senha<br>
+            <input type="password" name="senha"> <br><br>
+            
+            <input type="button" value="Entrar">
+        </form>
+
+        <h2>Cadastro</h2>
+        <form>
+            Usuário<br>
+            <input type="text" name="usuario"><br>
+            Sexo: <br>
+            <input type="radio" name="sexo" value = "m">Masculino<br>
+            <input type="radio" name="sexo" value = "f">Feminino<br>
+            <input type="radio" name="sexo" value = "o">Outro<br>
+            <!--Esse input com o type igual a radio serve pra criar caixas de opcoes, essas caixas possuem o mesmo name para o usuário marcar apenas uma-->
+            <br>
+            Interesses<br>
+            <input type="checkbox" name="interesses"> Ciência da Computação <br>
+            <input type="checkbox" name="interesses"> Design Gráfico <br>
+            <input type="checkbox" name="interesses"> Jogos <br>
+            <!--O input type="checkbox" criar caixas para o usuário marcar e é possivel marcar mais de uma-->
+            <br>
+            Estado<br>
+            <!--o select é usado para criar uma caixa de seleção-->
+            <select name="estado">
+                <option value="to">TO</option>
+                <!--a tag option é utilizada para criar as opcoes da caixa de selecao-->
+                <option value="sp">SP</option>
+                <option value="mg">MG</option>
+                <option value="rj">RJ</option>
+            </select>
+            <br>
+            Observações<br>
+            <textarea>Digite suas Observações</textarea>
+            <br>
+            <input type="submit" value="Cadastrar">
+        </form>
+    </body>
+</html>
