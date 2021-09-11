@@ -1,0 +1,21 @@
+/*
+para 
+no css utilizamos os seletores para escolher qual tag iremos estilizar.
+a sintaxe é da seguinte maneira:
+p (seletor){
+    color(propriedade): red(valor);   
+}
+nesse caso, estamos selecionando todas as tags p da página e mudando a cor do texto para vermelho
+
+o que é uma classe e id
+um id é um identificador unico
+uma classe é um identificador na qual é possível utilizar diversas vezes
+
+o ponto (.) define uma classe no css
+*/
+.mudar-cor {
+    color: gray;
+}
+#mudar-fundo{
+    background-color: gray;
+}
